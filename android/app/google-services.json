@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "770929278800",
+    "project_id": "prayermba",
+    "storage_bucket": "prayermba.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:770929278800:android:bd61e4e72324fe65443655",
+        "android_client_info": {
+          "package_name": "com.example.prayer_time_mobile_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCr4fL2G9m_vEBU2Qf1BUmWzT4aT8L-370"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
